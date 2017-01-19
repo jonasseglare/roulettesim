@@ -14,8 +14,9 @@ From the menu on the web page, open the file ```roulette.clj```. Press ```Shift+
 
 ## Results
 
-Sample plot produced
+Results from three different tests:
 
+![You are going to lose...](output.png)
 
 
 ## License
