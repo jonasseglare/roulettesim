@@ -1,6 +1,7 @@
 # roulettesim
 
-A simulation of the strategy explained here.
+A simulation of the strategy explained here:
+https://www.youtube.com/watch?v=w-biT2Ix3bU
 
 ## Usage
 
