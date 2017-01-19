@@ -19,6 +19,10 @@ Results from three different tests:
 
 ![You are going to lose...](output.png)
 
+Another example:
+
+![You are going to lose...](output2.png)
+
 
 ## License
 
